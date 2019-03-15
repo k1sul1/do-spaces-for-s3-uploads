@@ -1,0 +1,12 @@
+{
+    "name": "k1sul1/do-spaces-for-s3-uploads",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Nikkanen",
+            "email": "me@kisu.li"
+        }
+    ],
+    "require": {}
+}
