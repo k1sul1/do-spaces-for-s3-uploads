@@ -7,3 +7,6 @@ Create a space access key, and set S3_UPLOADS_KEY & S3_UPLOADS_SECRET accordingl
 ```
 composer require k1sul1/do-spaces-for-s3-uploads
 ```
+
+# License
+WTFPL
